@@ -58,7 +58,7 @@ Pattern matching on Results is clear and straightforward for simple cases, but R
 methods that make working with it more succinct:
 
    ---
-   * [and](#method_and)
+   * [and](#method-and)
    * and_then
    * as_deref
    * as_deref_mut
@@ -99,7 +99,7 @@ methods that make working with it more succinct:
    * unwrap_unchecked
    ---
 
-#### and {#method_and}
+#### method: and
 
 > <u>Syntax</u>: 
 ```rust
