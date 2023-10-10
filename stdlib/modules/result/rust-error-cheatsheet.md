@@ -99,7 +99,7 @@ methods that make working with it more succinct:
    * unwrap_unchecked
    ---
 
-#### and{#method_and}
+#### and {#method_and}
 
 > <u>Syntax</u>: 
 ```rust
